@@ -1,12 +1,5 @@
 import styled from 'styled-components';
 
-export const Text = styled.p`
-  font-family: sans-serif;
-  font-size: 25px;
-  line-height: 1.15;
-  margin: 15px 0;
-`;
-
 export const List = styled.ul`
   margin: 0;
   padding: 0;
